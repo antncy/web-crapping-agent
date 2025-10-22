@@ -10,5 +10,8 @@ dependencies = [
     "google-genai>=1.45.0",
     "langchain>=1.0.0",
     "langchain-openai>=1.0.0",
+    "marker-pdf==1.6.1",
     "openai>=2.5.0",
+    "surya-ocr==0.13.0",
+    "transformers==4.49.0",
 ]

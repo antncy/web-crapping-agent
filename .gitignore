@@ -13,3 +13,5 @@ wheels/
 
 .chainlit/
 chinlit.md
+
+data/

@@ -39,7 +39,6 @@ async def on_message(message: cl.Message):
     )
     msg = cl.Message(content="")
 
-    print(get_base_url())
     client = AsyncOpenAI(
         base_url="http://127.0.0.1:8000",
         api_key="sk-1234"
